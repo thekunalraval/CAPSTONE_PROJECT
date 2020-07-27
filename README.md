@@ -1,2 +1,2 @@
 # github-example
-this is sample github repo
+this is capstone project IBM DATA SCIENCE
